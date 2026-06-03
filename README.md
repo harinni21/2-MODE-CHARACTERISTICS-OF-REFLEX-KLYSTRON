@@ -1,4 +1,4 @@
-# 2-MODE-CHARACTERISTICS-OF-REFLEX-KLYSTRON
+# MODE CHARACTERISTICS OF REFLEX KLYSTRON
 
 **Aim:**
 
@@ -54,12 +54,9 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-**Observation: ( Include your own Table relevant to the Experiment)**
-<img width="971" height="1280" alt="WhatsApp Image 2026-06-02 at 10 30 24 PM" src="https://github.com/user-attachments/assets/f55991db-abbc-477e-a8e1-c23d153535c7" />
+**Observation:**
 
-## Graph
-<img width="1345" height="1600" alt="WhatsApp Image 2026-06-03 at 11 15 50 AM" src="https://github.com/user-attachments/assets/8cb10220-a74e-4892-9f36-72f79660e476" />
-
+<img width="772" height="299" alt="Screenshot 2025-11-01 155503" src="https://github.com/user-attachments/assets/65c73fc2-03b8-4e8d-94ef-b8943b3a078a" />
 
 **CALCULATIONS:**
 
@@ -80,13 +77,11 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-**Result:**
-   	Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
-   	
-			
-			
-			
-			
-			
+**Graph:**
+<img width="1345" height="1600" alt="WhatsApp Image 2026-06-03 at 11 15 50 AM" src="https://github.com/user-attachments/assets/eddcbfe2-7bc1-4412-adc8-b8414f024f3d" />
 
+
+**Result:**
+   	
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.	
 
